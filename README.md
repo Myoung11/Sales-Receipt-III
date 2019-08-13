@@ -2,6 +2,8 @@
 # C++
 User will enter: number of items, name of each, price of each, sales tax %. OUTPUT: each item name and its cost, total cost, sales tax, and grand total.
 # Example Input/Output
+(Output is not properly displayed in description. It is properly displayed when the program is run.)
+
 Enter in the number of sales items to be calculated: 3                                                   
                                                                                                          
 Enter in the name of sales item number 1: pen                                                            
